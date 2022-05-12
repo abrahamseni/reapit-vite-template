@@ -1556,6 +1556,11 @@
     "@linaria/core" "^3.0.0-beta.15"
     "@linaria/react" "^3.0.0-beta.15"
 
+"@reapit/foundations-ts-definitions@^1.3.42":
+  version "1.3.42"
+  resolved "https://registry.yarnpkg.com/@reapit/foundations-ts-definitions/-/foundations-ts-definitions-1.3.42.tgz#7ca5f83449c8d67eeabbdccaa668720cd1cd6768"
+  integrity sha512-4KGd2GRbfQ5tgRt+XnR8f+nCWwTPU6C2acJHEtY6xmVHPqhHMEpNHVHrBXTh+kh6NYYVPSt4mTXVr3aKYpoMeA==
+
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-babel/-/plugin-babel-5.3.0.tgz#9cb1c5146ddd6a4968ad96f209c50c62f92f9879"
